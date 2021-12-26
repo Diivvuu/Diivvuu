@@ -41,32 +41,11 @@
 <h3 align="center">💻Some Technologies, Languages, Frameworks and others🧑🏻‍💻<h3/>
   
 <p align="center">
-	<a href="https://flutter.dev/">
-	   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />&nbsp;&nbsp;
-	</a>
-	<a href="https://dart.dev/">
-	   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>&nbsp;&nbsp;
-	</a>
 	<a href="https://www.python.org/">
 	   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 	</a>
 	<a href="https://html.com/">
 	   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
-	</a>
-	<a href="https://nodejs.org/en/">
-	   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />&nbsp;&nbsp;
-	</a>
-	<a href="https://reactjs.org/">
-	   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
-	</a>
-	<a href="https://www.javascript.com/">
-	   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />&nbsp;&nbsp;
-	</a>
-	<a href="https://www.java.com/en/">
-	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-	</a>
-    <a href="https://kotlinlang.org/">
-	   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />&nbsp;&nbsp;
 	</a>
 	<a href="https://www.mysql.com/">
 	   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
