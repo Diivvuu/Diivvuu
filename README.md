@@ -5,7 +5,7 @@
 - 🏫 I am currently in my second year.
 - 🌱 I’m currently learning Python,Data structures.
 - 👯 I’m looking to collaborate for Python Projects.
-- 🥅 2021 Goals: Contribute more to Open Source Projects.
+- 🥅 2022 Goals: Contribute more to Open Source Projects.
 - ⚡ Fun fact: I am a MARVEL fan.
 
 <p align="center">
