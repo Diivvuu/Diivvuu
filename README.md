@@ -1,3 +1,4 @@
+[![Divyanshu Bawa profile views](https://u8views.com/api/v1/github/profiles/95715357/views/day-week-month-total-count.svg)](https://u8views.com/github/Diivvuu)
 # 💫 About Me:
 🔭 I’m currently working on SYNC MUSIC LAB and a SLACK-CLONE<br>👯 I’m looking to collaborate onfull-stack projects IN Reactjs, Nodejs and Nextjs<br>🤝 I’m looking for help with system design strategies<br>🌱 I’m currently learning TypeScript and backend architecture<br>💬 Ask me about React, state management, and how to optimize API performance<br>⚡ Fun fact I am a Powerlifter who codes with same intensity as I lift.
 
