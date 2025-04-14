@@ -1,5 +1,5 @@
 # 💫 About Me:                                      ![](https://komarev.com/ghpvc/?username=Diivvuu&color=green)
-🔭 I’m currently working on V2 jets app and an ai-draft app<br>👯 I’m looking to collaborate onfull-stack projects IN Reactjs, Nodejs and Nextjs<br>🤝 I’m looking for help with system design strategies<br>🌱 I’m currently learning TypeScript and backend architecture<br>💬 Ask me about React, state management, and how to optimize API performance<br>⚡ Fun fact I am a Powerlifter who codes with same intensity as I lift.
+🔭 I’m currently working on Policynation app and a school management app<br>👯 I’m looking to collaborate onfull-stack projects IN tRPC and Nextjs<br>🤝 I’m looking for help with system design strategies<br>🌱 I’m currently learning tRPC and backend architecture<br>💬 Ask me about Nextjs, state management, and how to optimize API performance<br>⚡ Fun fact I am a Powerlifter who codes with same intensity as I lift.
 
 
 ## 🌐 Socials:
